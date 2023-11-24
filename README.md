@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanshukla13&label=Profile%20views&color=0e75b6&style=flat" alt="aryanshukla13" /> </p>
 
-- 🔭 I’m currently working on **Salesforce and on as well full stack **
+- 🔭 I’m currently working on **Salesforce** and on **full stack** as well
 
 - 🌱 I’m currently learning **Salesforce**
 
