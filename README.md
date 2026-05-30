@@ -13,9 +13,9 @@
 
 ## About
 
-Backend-focused engineer with hands-on experience building scalable systems, REST APIs, and microservices architectures. Comfortable across the full stack but strongest in backend design — from data modeling to distributed coordination.
+SDE-2 Backend Engineer at BeatRoute with 2+ years of production experience building distributed, event-driven systems at scale. Specialize in microservice architecture, financial systems engineering, and high-throughput backend infrastructure using NestJS, Node.js, Kafka, and multi-database designs across PostgreSQL, MySQL, MongoDB, and Redis.
 
-Currently exploring **NestJS**, **Kafka-based event pipelines**, and **microservices patterns** used in large-scale production systems.
+Proven track record owning complex backend domains end-to-end — from designing fault-tolerant approval workflow engines with idempotency guarantees to architecting enterprise expense management systems that enforce policy-based financial controls. Strong foundation in system design, database optimization, and 700+ DSA problems solved on LeetCode.
 
 ---
 
@@ -72,6 +72,33 @@ Currently exploring **NestJS**, **Kafka-based event pipelines**, and **microserv
 
 ---
 
+## Experience
+
+**BeatRoute — SDE-2 Backend Engineer** `Mar 2024 – Present`
+- Architected enterprise Expense Management System with policy-based financial validation and a fault-tolerant multi-step approval workflow engine featuring idempotency guarantees, retry mechanisms, and dead-letter queue handling
+- Built multi-database systems (MySQL, PostgreSQL, MongoDB) and Redis caching layer with TTL-based invalidation, improving P95 response times and reducing DB load significantly
+- Implemented distributed tracing and structured logging to reduce MTTR for production incidents across microservice-based infrastructure
+
+**Cognizant — Backend Engineer** `Sep 2023 – Mar 2024`
+- Built Kafka-based event-driven architecture for async notifications, audit logging, and state transitions on an enterprise SOS Readiness platform
+- Integrated Redis caching achieving 90% reduction in database load; owned PostgreSQL optimization including composite indexing, query plan tuning, and connection pooling
+- Architected resilient microservice communication with circuit breakers, RBAC authorization, and retry strategies
+
+**Cognizant — Full Stack Developer Intern** `Mar 2023 – Aug 2023`
+- Developed RESTful APIs with JWT-based auth and deployed on AWS EC2/S3 with Jenkins CI/CD pipelines
+- Optimized MongoDB schemas with compound indexes and aggregation pipelines
+
+**Learnys Edutech — Full Stack Developer Intern** `Apr 2022 – Jul 2022`
+- Built MERN stack applications with JWT authentication and role-based access control
+
+---
+
+## Education
+
+**ABES Engineering College** — B.Tech, Computer Science · GPA: 8.1/10 · Jul 2019 – May 2023, Ghaziabad, UP
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -84,4 +111,4 @@ Currently exploring **NestJS**, **Kafka-based event pipelines**, and **microserv
 
 ---
 
-<p align="center">Open to backend / full-stack roles and collaboration on distributed systems projects.</p>
+<p align="center">Available for senior backend engineering roles and technical collaboration on distributed systems and high-scale infrastructure.</p>
