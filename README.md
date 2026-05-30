@@ -74,12 +74,12 @@ Proven track record owning complex backend domains end-to-end — from designing
 
 ## Experience
 
-**BeatRoute — SDE-2 Backend Engineer** `Mar 2024 – Present`
+**BeatRoute — SDE-2 Backend Engineer** `Mar 2026 – Present`
 - Architected enterprise Expense Management System with policy-based financial validation and a fault-tolerant multi-step approval workflow engine featuring idempotency guarantees, retry mechanisms, and dead-letter queue handling
 - Built multi-database systems (MySQL, PostgreSQL, MongoDB) and Redis caching layer with TTL-based invalidation, improving P95 response times and reducing DB load significantly
 - Implemented distributed tracing and structured logging to reduce MTTR for production incidents across microservice-based infrastructure
 
-**Cognizant — Backend Engineer** `Sep 2023 – Mar 2024`
+**Cognizant — Backend Engineer** `Sep 2023 – Mar 2026`
 - Built Kafka-based event-driven architecture for async notifications, audit logging, and state transitions on an enterprise SOS Readiness platform
 - Integrated Redis caching achieving 90% reduction in database load; owned PostgreSQL optimization including composite indexing, query plan tuning, and connection pooling
 - Architected resilient microservice communication with circuit breakers, RBAC authorization, and retry strategies
