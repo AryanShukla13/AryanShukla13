@@ -13,7 +13,7 @@
 
 ## About
 
-SDE-2 Backend Engineer at BeatRoute with 2+ years of production experience building distributed, event-driven systems at scale. Specialize in microservice architecture, financial systems engineering, and high-throughput backend infrastructure using NestJS, Node.js, Kafka, and multi-database designs across PostgreSQL, MySQL, MongoDB, and Redis.
+SDE-2 Backend Engineer at BeatRoute with 3+ years of production experience building distributed, event-driven systems at scale. Specialize in microservice architecture, financial systems engineering, and high-throughput backend infrastructure using NestJS, Node.js, Kafka, and multi-database designs across PostgreSQL, MySQL, MongoDB, and Redis.
 
 Proven track record owning complex backend domains end-to-end — from designing fault-tolerant approval workflow engines with idempotency guarantees to architecting enterprise expense management systems that enforce policy-based financial controls. Strong foundation in system design, database optimization, and 700+ DSA problems solved on LeetCode.
 
